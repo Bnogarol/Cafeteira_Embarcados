@@ -3,8 +3,8 @@
 #include <UniversalTelegramBot.h>
 
 // Wifi network station credentials
-#define WIFI_SSID "Luiz_Dantas"
-#define WIFI_PASSWORD "LpMe1003"
+#define WIFI_SSID "Nome da Rede"
+#define WIFI_PASSWORD "Sua senha"
 // Telegram BOT Token (Get from Botfather)
 #define BOT_TOKEN "6039508262:AAHot5v6IMuVkPrKzOf8LKG2Um1a3fop6Tk"
 #define CHAT_ID "1656416303"
